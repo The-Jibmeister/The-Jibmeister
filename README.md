@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @The-Jibmeister
-- 👀 I’m interested in Coding and Viedogames
-- 🌱 I’m currently learning CSS, HTML, JS, Python
+- 👀 I’m interested in Learning, Coding and Gaming
+- 🌱 I’m currently studying Python, MERN, and front-end styling
 - 📫 Reach me @ bduso12@gmail.com
+- Seeking Employment
 
 <!---
 The-Jibmeister/The-Jibmeister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
